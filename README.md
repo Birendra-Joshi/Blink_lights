@@ -26,4 +26,7 @@ Potentiometer – Speed Control (C118912)
 LEDs ×10 (C2895480)
 Project Assets
 Schematic Design: 
-PCB Layout: Custom Batman-shaped physical design
+<img width="847" height="592" alt="hard" src="https://github.com/user-attachments/assets/8d5e2bf0-8caa-4d79-b5f9-c531f0b3f2de" />
+PCB Layout: Custom Batman-shaped physical desig
+<img width="727" height="505" alt="soft" src="https://github.com/user-attachments/assets/787c8420-3ac1-4840-847a-5a389028f1b9" />
+n
